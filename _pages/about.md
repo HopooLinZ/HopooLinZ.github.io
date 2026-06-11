@@ -1,89 +1,83 @@
 ---
-
 permalink: /
 title: ""
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at [Wuhan University](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/).
+I am currently a Ph.D. candidate at [Wuhan University](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). 
 I was a visiting Ph.D. student at the [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar), [Agency for Science, Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/), supervised by [Dr. Basura Fernando](https://basurafernando.github.io/).
 
 My research interests include **computer vision**, **object counting**, **crowd counting**, **multimodal learning**, and **vision-language models**. I have published papers in top conferences and journals, including ECCV, ACM MM, TIP, TMM, IJCV, and TCSVT.
 
 If you are interested in academic cooperation on object counting, crowd analysis, multimodal learning, or vision-language models, please feel free to contact me by email.
 
+
 # 🔥 News
 
-* *2026*:  🎉 One co-authored paper is accepted by **IEEE TCSVT**.
-* *2025*:  🎉 One co-authored paper is accepted by **IJCV**.
-* *2025*:  🎉 One co-authored paper is accepted by **NeurIPS 2025 Spotlight**.
-* *2025*:  🎉 One paper is accepted by **IEEE TIP**.
-* *2025*:  🎉 One co-authored paper is accepted by **ICASSP 2025**.
-* *2024*:  🎉 One co-authored paper is accepted by **ACM MM 2024**.
-* *2024*:  🎉 Two papers are accepted by **ECCV 2024**.
-* *2024.11*:  🎉 I completed my visiting Ph.D. study at **A*STAR, Singapore**.
+- **2026**: One co-authored paper is accepted by **IEEE TCSVT**.
+- **2025**: One co-authored paper is accepted by **IJCV**.
+- **2025**: One co-authored paper is accepted by **NeurIPS 2025 Spotlight**.
+- **2025**: One paper is accepted by **IEEE TIP**.
+- **2025**: One co-authored paper is accepted by **ICASSP 2025**.
+- **2024**: One co-authored paper is accepted by **ACM MM 2024**.
+- **2024**: Two papers are accepted by **ECCV 2024**.
+- **2024.11**: I completed my visiting Ph.D. study at **A*STAR, Singapore**.
+
 
 # 📝 Publications
 
 ## Recent Publications
 
-* [**RegenTrack: Distance-Adaptive Regeneration Pool Matching for Drone-Based Crowd Tracking**](#)
-  Y. Lei, K. Zhou, J. Yuan, **H. Zhu**, J. Wang, X. Zhong
+- [**RegenTrack: Distance-Adaptive Regeneration Pool Matching for Drone-Based Crowd Tracking**](#)  
+  Y. Lei, K. Zhou, J. Yuan, **H. Zhu**, J. Wang, X. Zhong  
   *IEEE Transactions on Circuits and Systems for Video Technology*, 2026.
 
-* [**Clothing Purification with Causality Meets Vision-Language Pretraining Models**](https://link.springer.com/article/10.1007/s11263-025-02548-7)
-  Z. Yang, **H. Zhu**, N. Lei, B. Fernando, Z. Wang
+- [**Clothing Purification with Causality Meets Vision-Language Pretraining Models**](https://link.springer.com/article/10.1007/s11263-025-02548-7)  
+  Z. Yang, **H. Zhu**, N. Lei, B. Fernando, Z. Wang  
   *International Journal of Computer Vision*, 2025.
 
-* [**Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection**](#)
-  Y. Guo, S. He, Y. Lu, H. An, Y. Tao, **H. Zhu**, J. Liu, Y. Fang
+- [**Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection**](#)  
+  Y. Guo, S. He, Y. Lu, H. An, Y. Tao, **H. Zhu**, J. Liu, Y. Fang  
   *Annual Conference on Neural Information Processing Systems (NeurIPS Spotlight)*, 2025.
 
-* [**Multi-granularity Distribution Alignment for Cross-domain Crowd Counting**](#)
-  X. Zhong, L. Qiu, **H. Zhu**, J. Yuan, S. He, Z. Wang
+- [**Multi-granularity Distribution Alignment for Cross-domain Crowd Counting**](#)  
+  X. Zhong, L. Qiu, **H. Zhu**, J. Yuan, S. He, Z. Wang  
   *IEEE Transactions on Image Processing*, 2025.
 
-* [**Expanding Zero-Shot Object Counting with Rich Prompts**](https://arxiv.org/abs/2505.15398)
-  **H. Zhu**, S. Li, J. Yuan, Z. Yang, Y. Guo, W. Liu, X. Zhong, S. He
+- [**Expanding Zero-Shot Object Counting with Rich Prompts**](https://arxiv.org/abs/2505.15398)  
+  **H. Zhu**, S. Li, J. Yuan, Z. Yang, Y. Guo, W. Liu, X. Zhong, S. He  
   *arXiv preprint arXiv:2505.15398*, 2025.
 
-* [**Synergistic Integration of Cross-spatial Learning for Lightweight Crack Detection**](#)
-  S. Li, J. Yuan, **H. Zhu**, X. Zhong
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
+- [**Synergistic Integration of Cross-spatial Learning for Lightweight Crack Detection**](#)  
+  S. Li, J. Yuan, **H. Zhu**, X. Zhong  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing*, 2025.
 
-* [**FocalCount: Towards Class-Count Imbalance in Class-Agnostic Counting**](https://arxiv.org/abs/2502.10877)
-  **H. Zhu**, J. Yuan, Z. Yang, Y. Guo, X. Zhong, S. He
+- [**FocalCount: Towards Class-Count Imbalance in Class-Agnostic Counting**](https://arxiv.org/abs/2502.10877)  
+  **H. Zhu**, J. Yuan, Z. Yang, Y. Guo, X. Zhong, S. He  
   *arXiv preprint arXiv:2502.10877*, 2025.
 
-* [**DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy**](#)
-  Y. Lei, **H. Zhu**, J. Yuan, G. Xiang, X. Zhong, S. He
-  *ACM International Conference on Multimedia (ACM MM)*, 2024.
+- [**DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy**](#)  
+  Y. Lei, **H. Zhu**, J. Yuan, G. Xiang, X. Zhong, S. He  
+  *ACM International Conference on Multimedia*, 2024.
 
-* [**OneRestore: A Universal Restoration Framework for Composite Degradation**](#)
-  Y. Guo, Y. Gao, Y. Lu, **H. Zhu**, R. W. Liu, S. He
-  *European Conference on Computer Vision (ECCV)*, 2024.
+- [**OneRestore: A Universal Restoration Framework for Composite Degradation**](#)  
+  Y. Guo, Y. Gao, Y. Lu, **H. Zhu**, R. W. Liu, S. He  
+  *European Conference on Computer Vision*, 2024.
 
-* [**Zero-shot Object Counting with Good Exemplars**](https://arxiv.org/abs/2407.04948) [[Code]](https://github.com/HopooLinZ/VA-Count)
-  **H. Zhu**, J. Yuan, Z. Yang, Y. Guo, Z. Wang, X. Zhong, S. He
-  *European Conference on Computer Vision (ECCV)*, 2024.
+- [**Zero-shot Object Counting with Good Exemplars**](https://arxiv.org/abs/2407.04948) [[Code]](https://github.com/HopooLinZ/VA-Count)  
+  **H. Zhu**, J. Yuan, Z. Yang, Y. Guo, Z. Wang, X. Zhong, S. He  
+  *European Conference on Computer Vision*, 2024.
+
 
 # 💻 Internships
 
-* *2023.11 - 2024.11*, Visiting Ph.D. Student, Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A*STAR), Singapore.
+- **2023.11 - 2024.11**: Visiting Ph.D. Student, Centre for Frontier AI Research, Agency for Science, Technology and Research, Singapore.
+
 
 # 💬 Academic Services
 
