@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -13,7 +19,7 @@ I am currently a postdoctoral researcher at [Wuhan University of Science and Tec
 I received my Ph.D. degree from [Wuhan University of Technology](http://english.whut.edu.cn/) in June 2025, advised by [Prof. Jingling Yuan](#). 
 I was also a visiting Ph.D. student at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Assoc. Prof. Shengfeng He](https://shengfenghe.github.io/).
 
-My research interests include **computer vision**, **object counting**, **crowd counting**, **multimodal learning**, and **vision-language models**. I have published papers in top conferences and journals, including ECCV, ACM MM, TIP, TMM, IJCV, and TCSVT.
+My research interests include **computer vision**, **object counting**, **crowd counting**, **multimodal learning**, and **vision-language models**.I have published papers in top conferences and journals, including ECCV, ACM MM, TIP, TMM, IJCV, and TCSVT (<a href='https://scholar.google.com/citations?user=fluPrxcAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 If you are interested in academic cooperation on object counting, crowd analysis, multimodal learning, or vision-language models, please feel free to contact me by email.
 
