@@ -26,7 +26,7 @@ If you are interested in academic cooperation on object counting, crowd analysis
 - **2025**: One co-authored paper is accepted by **ICASSP 2025**.
 - **2024**: One co-authored paper is accepted by **ACM MM 2024**.
 - **2024**: Two papers are accepted by **ECCV 2024**.
-- **2024.11**: I completed my visiting Ph.D. study at **A*STAR, Singapore**.
+- **2024.11**: I completed my visiting Ph.D. study at **SMU, Singapore**.
 
 
 # 📝 Publications
