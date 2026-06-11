@@ -9,8 +9,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at [Wuhan University](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). 
-I was a visiting Ph.D. student at the [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar), [Agency for Science, Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/), supervised by [Dr. Basura Fernando](https://basurafernando.github.io/).
+I am currently a postdoctoral researcher at [Wuhan University of Science and Technology](https://www.wust.edu.cn/), working with [Prof. Xin Xu](https://jszy.wust.edu.cn/jszy/xx/202112/t20211220_248903.html). 
+I received my Ph.D. degree from [Wuhan University of Technology](http://english.whut.edu.cn/) in June 2025, advised by [Prof. Jingling Yuan](#). 
+I was also a visiting Ph.D. student at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by [Assoc. Prof. Shengfeng He](https://shengfenghe.github.io/).
 
 My research interests include **computer vision**, **object counting**, **crowd counting**, **multimodal learning**, and **vision-language models**. I have published papers in top conferences and journals, including ECCV, ACM MM, TIP, TMM, IJCV, and TCSVT.
 
@@ -20,13 +21,13 @@ If you are interested in academic cooperation on object counting, crowd analysis
 # 🔥 News
 
 - **2026**: One co-authored paper is accepted by **IEEE TCSVT**.
+- **2025.06**: I received my Ph.D. degree from **Wuhan University of Technology**.
 - **2025**: One co-authored paper is accepted by **IJCV**.
 - **2025**: One co-authored paper is accepted by **NeurIPS 2025 Spotlight**.
 - **2025**: One paper is accepted by **IEEE TIP**.
 - **2025**: One co-authored paper is accepted by **ICASSP 2025**.
 - **2024**: One co-authored paper is accepted by **ACM MM 2024**.
 - **2024**: Two papers are accepted by **ECCV 2024**.
-- **2024.11**: I completed my visiting Ph.D. study at **SMU, Singapore**.
 
 
 # 📝 Publications
@@ -74,9 +75,13 @@ If you are interested in academic cooperation on object counting, crowd analysis
   *European Conference on Computer Vision*, 2024.
 
 
-# 💻 Internships
+# 💻 Research Experience
 
-- **2023.11 - 2024.11**: Visiting Ph.D. Student, Centre for Frontier AI Research, Agency for Science, Technology and Research, Singapore.
+- **2025.07 - Present**: Postdoctoral Researcher, Wuhan University of Science and Technology, Wuhan, China.  
+  Supervisor: Prof. Xin Xu.
+
+- **2023.11 - 2024.11**: Visiting Ph.D. Student, Singapore Management University, Singapore.  
+  Supervisor: Assoc. Prof. Shengfeng He.
 
 
 # 💬 Academic Services
