@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Huilin Zhu | 朱慧琳"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "Ph.D. candidate. My research interests include computer vision, object counting, multimodal learning, and vision-language models."
   location         : "Wuhan, China"
   employer         : "Wuhan University of Science and Technology"
