@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Huilin Zhu | 朱慧琳"
-  avatar           : "images/profile.jpg"
-  bio              : "Postdoctoral researcher. My research interests include computer vision, object counting, multimodal learning, and vision-language models."
+  avatar           : "images/profile.png"
+  bio              : "Postdoctoral researcher. My research interests include object counting, multimodal learning, and vision-language models."
   location         : "Wuhan, China"
-  employer         : "Wuhan University of Science and Technology"
+  employer         : "WUST"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fluPrxcAAAAJ&hl=zh-CN"
   email            : "zhuhuilin@wust.edu.cn"
