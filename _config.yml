@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhengwei Yang | 杨铮伟"
-  avatar           : "images/android-chrome-192x192.png"
-  bio              : "A solid start, gradual growth, and the steady pursuit of progress ❤️"
-  location         : "Singapore"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xKVIwtEAAAAJ"
-  email            : "yzw_aim@whu.edu.cn"
-  github           :  "BoomShakaY"
+  name             : "Huilin Zhu | 朱慧琳"
+  avatar           : "images/profile.png"
+  bio              : "Ph.D. candidate. My research interests include computer vision, object counting, multimodal learning, and vision-language models."
+  location         : "Wuhan, China"
+  employer         : "Wuhan University of Science and Technology"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=fluPrxcAAAAJ&hl=zh-CN"
+  email            : "zhuhuilin@wust.edu.cn"
+  github           : "HopooLinZ"
   researchgate     : "https://www.researchgate.net/profile/Zhengwei-Yang-8"
   uri              :
   bitbucket        :
